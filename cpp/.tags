@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+main	Arrays Introduction.cpp	/^int main() {$/;"	f
+main	Basic Data Types.cpp	/^int main()$/;"	f
+main	Conditional Statements.cpp	/^int main() {$/;"	f
+main	For Loop.cpp	/^int main()$/;"	f
+main	Functions.cpp	/^int main() {$/;"	f
+main	Input and Output.cpp	/^int main() {$/;"	f
+main	Pointer.cpp	/^int main() {$/;"	f
+main	StringStream.cpp	/^int main() {$/;"	f
+main	Strings.cpp	/^int main() {$/;"	f
+max_of_four	Functions.cpp	/^int max_of_four(int a, int b, int c, int d)$/;"	f
+parseInts	StringStream.cpp	/^vector<int> parseInts(string str) {$/;"	f
+update	Pointer.cpp	/^void update(int *a,int *b) {$/;"	f
