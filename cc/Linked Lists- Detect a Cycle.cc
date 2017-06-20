@@ -14,7 +14,7 @@ bool has_cycle(Node* head) {
     if(!head)
     	return false;
     Node * slow = head;
-    Node * fast = slow;
+    Node * fast = slow->next;
     while(fast && fast->next){
     	if(fast == slow)
     		return true;
